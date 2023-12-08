@@ -1,0 +1,6 @@
+framework module GXCaptureVideo {
+  umbrella header "GXCaptureVideo-umbrella.h"
+
+  export *
+  module * { export * }
+}
