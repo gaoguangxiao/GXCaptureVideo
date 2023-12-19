@@ -13,7 +13,7 @@ public protocol GXCaptureVideoProtocol {
     var delegate: GXCaptureVideoDelegate? { get set }
     
     //MARK: 方法
-    func iniCaptureVideo(preview: UIView)
+    func iniCaptureVideo(preview: UIView,rectOfInterest: CGRect)
     
     func startCapture()
     
