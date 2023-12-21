@@ -1,7 +1,7 @@
 {
   "name": "GXCaptureVideo",
-  "version": "0.1.1",
-  "summary": "增加扫码区域限制",
+  "version": "0.1.2",
+  "summary": "处理内存循环问题",
   "description": "视频采集",
   "homepage": "https://github.com/小修/GXCaptureVideo",
   "license": {
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/gaoguangxiao/GXCaptureVideo.git",
-    "tag": "0.1.1"
+    "tag": "0.1.2"
   },
   "platforms": {
     "ios": "10.0"

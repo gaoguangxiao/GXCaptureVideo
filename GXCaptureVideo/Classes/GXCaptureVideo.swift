@@ -10,7 +10,7 @@ import AVFoundation
 
 public class GXCaptureVideo: NSObject, GXCaptureVideoProtocol{
     // MARK: - Properties (GXCaptureVideoProtocol)
-    public var delegate: GXCaptureVideoDelegate?
+    weak public var delegate: GXCaptureVideoDelegate?
     
     //    MARK: property
     private(set) var videoDevices = [AVCaptureDevice]()

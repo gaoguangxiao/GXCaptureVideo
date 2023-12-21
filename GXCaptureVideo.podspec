@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'GXCaptureVideo'
-  s.version          = '0.1.1'
-  s.summary          = '增加扫码区域限制'
+  s.version          = '0.1.2'
+  s.summary          = '处理代理内存泄露问题'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?

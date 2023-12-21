@@ -7,7 +7,7 @@
 
 import Foundation
 
-public protocol GXCaptureVideoDelegate {
+public protocol GXCaptureVideoDelegate: NSObjectProtocol {
     /// 扫码完成
     /// - Parameters:
     ///   - string: 扫码得到的字符

@@ -4,7 +4,7 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - GXCaptureVideo (0.1.1)
+  - GXCaptureVideo (0.1.2)
 
 DEPENDENCIES:
   - FBSnapshotTestCase (~> 2.1.4)
@@ -20,7 +20,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  GXCaptureVideo: 82a11c3a70f43813d6227273ec646f0f50e8dbfe
+  GXCaptureVideo: e1644155404eb764f5c80fd023230f12769897a2
 
 PODFILE CHECKSUM: d07259cb8cacb00c407469251aee676a898a9276
 
